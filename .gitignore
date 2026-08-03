@@ -1,0 +1,15 @@
+# Archivos de Visual Studio / SSMS
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos temporales de Windows
+Thumbs.db
+Desktop.ini
+
+# Backups de SQL Server (por si generas .bak al probar)
+*.bak
+*.ldf
+*.mdf
